@@ -75,6 +75,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] MySQL 
 - [x] Postgres
 - [ ] MongoDB
+- [ ] Redis
+- [ ] Memcached
 
 ## Tools
 
@@ -107,6 +109,12 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] Hopfield Network
 - [ ] Gaussian Mixture Models
 - [ ] Machine Learning Course By Andrew Ng
+
+## Big Data
+
+- [ ] Hadoop
+- [ ] Spark
+- [ ] Kafka
 
 ## Books
 
