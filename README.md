@@ -68,6 +68,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] SOAP
 - [ ] REST API Design
 - [ ] HTTP
+- [x] GraphQL
 
 ## Databases
 
