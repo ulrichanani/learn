@@ -11,7 +11,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] Redux
   - [ ] Node.js
   - [ ] Express.js
-  - [x] Sails.js
+  - [ ] Sails.js
   - [x] ES6
   - [ ] Vue.js
   - [ ] TypeScript
@@ -28,8 +28,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] Go
 - [ ] Ruby
   - [ ] Ruby on Rails
-- [ ] PHP
-  - [ ] Symfony
+- [x] PHP
+  - [x] Symfony
   - [ ] Laravel
 
 ## Computer Science Fundamentals
@@ -56,7 +56,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] Build and Test Automation
 - [ ] Source Code Management
 - [ ] Deployment Tools
-- [ ] Docker
+- [x] Docker
 - [ ] Vagrant
 - [ ] Heroku
 - [ ] AWS
@@ -66,8 +66,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## Web services, Web infrastructure
 
 - [ ] SOAP
-- [ ] REST API Design
-- [ ] HTTP
+- [x] REST API Design
+- [x] HTTP
 - [x] GraphQL
 
 ## Databases
