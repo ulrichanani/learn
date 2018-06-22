@@ -9,28 +9,30 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [x] Angular
   - [ ] React
   - [ ] Redux
-  - [ ] Node.js
+  - [x] Node.js
   - [ ] Express.js
   - [ ] Sails.js
+  - [x] Adonis.js
   - [x] ES6
   - [ ] Vue.js
-  - [ ] TypeScript
+  - [x] TypeScript
 - [x] HTML
 - [x] CSS
 - [x] SCSS
 - [x] Python
+  - [ ] Masonite
   - [x] Django
   - [x] Django Rest Framework
   - [ ] Flask
   - [x] Tensorflow
-- [x] Scala
+- [ ] Scala
   - [ ] Play Framework
 - [ ] Go
-- [ ] Ruby
-  - [ ] Ruby on Rails
+- [x] Ruby
+  - [x] Ruby on Rails
 - [x] PHP
   - [x] Symfony
-  - [ ] Laravel
+  - [x] Laravel
 
 ## Computer Science Fundamentals
 
@@ -50,15 +52,15 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## DevOps
 
-- [ ] Linux
+- [x] Linux
 - [ ] Continuous Integration
 - [ ] Continuous Delivery
 - [ ] Build and Test Automation
-- [ ] Source Code Management
+- [x] Source Code Management
 - [ ] Deployment Tools
 - [x] Docker
 - [ ] Vagrant
-- [ ] Heroku
+- [x] Heroku
 - [ ] AWS
 - [ ] Kubernetes
 - [ ] Chef
@@ -84,8 +86,8 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [x] Git
 - [ ] Nginx
 - [x] Webpack
-- [ ] Npm
-- [ ] Yarn
+- [x] Npm
+- [x] Yarn
 - [ ] Elasticsearch
 - [ ] Logstash
 - [ ] Kibana
