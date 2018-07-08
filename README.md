@@ -5,34 +5,34 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Programming Languages
 
-- [x] Javascript
-  - [x] Angular
+- [ ] Javascript
+  - [ ] Angular
   - [ ] React
   - [ ] Redux
-  - [x] Node.js
+  - [ ] Node.js
   - [ ] Express.js
   - [ ] Sails.js
-  - [x] Adonis.js
-  - [x] ES6
+  - [ ] Adonis.js
+  - [ ] ES6
   - [ ] Vue.js
-  - [x] TypeScript
+  - [ ] TypeScript
 - [x] HTML
 - [x] CSS
-- [x] SCSS
-- [x] Python
+- [ ] SCSS
+- [ ] Python
   - [ ] Masonite
-  - [x] Django
-  - [x] Django Rest Framework
+  - [ ] Django
+  - [ ] Django Rest Framework
   - [ ] Flask
-  - [x] Tensorflow
+  - [ ] Tensorflow
 - [ ] Scala
   - [ ] Play Framework
 - [ ] Go
-- [x] Ruby
-  - [x] Ruby on Rails
-- [x] PHP
-  - [x] Symfony
-  - [x] Laravel
+- [ ] Ruby
+  - [ ] Ruby on Rails
+- [ ] PHP
+  - [ ] Symfony
+  - [ ] Laravel
 
 ## Computer Science Fundamentals
 
@@ -58,7 +58,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] Build and Test Automation
 - [x] Source Code Management
 - [ ] Deployment Tools
-- [x] Docker
+- [ ] Docker
 - [ ] Vagrant
 - [x] Heroku
 - [ ] AWS
@@ -70,13 +70,13 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 - [ ] SOAP
 - [x] REST API Design
 - [x] HTTP
-- [x] GraphQL
+- [ ] GraphQL
 
 ## Databases
 
 - [ ] Relational and Nonrelational databases
-- [x] MySQL 
-- [x] Postgres
+- [ ] MySQL 
+- [ ] Postgres
 - [ ] MongoDB
 - [ ] Redis
 - [ ] Memcached
@@ -85,7 +85,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 - [x] Git
 - [ ] Nginx
-- [x] Webpack
+- [ ] Webpack
 - [x] Npm
 - [x] Yarn
 - [ ] Elasticsearch
@@ -96,13 +96,13 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Machine Learning
 
-- [x] Linear Classifiers
+- [ ] Linear Classifiers
 - [ ] Bayesian Modelling
-- [x] Neural Networks
-- [x] Regression
-- [x] K-Nearest Neighbors
-- [x] Clustering
-- [x] Reinforcement Learning
+- [ ] Neural Networks
+- [ ] Regression
+- [ ] K-Nearest Neighbors
+- [ ] Clustering
+- [ ] Reinforcement Learning
 - [ ] Convolution Neural Networks
 - [ ] Recurrent Neural Networks
 - [ ] Deep Networks
