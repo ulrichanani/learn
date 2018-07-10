@@ -16,6 +16,7 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
   - [ ] ES6
   - [ ] Vue.js
   - [ ] TypeScript
+  - [ ] Chrome Developer Tools
 - [x] HTML
 - [x] CSS
 - [ ] SCSS
