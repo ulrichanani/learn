@@ -3,36 +3,31 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 # The List
 
-## Programming Languages
+## Programming Languages, Frameworks & Tools
 
 - [ ] Javascript
   - [ ] Angular
   - [ ] React
-  - [ ] Redux
   - [ ] Node.js
   - [ ] Express.js
-  - [ ] Sails.js
   - [ ] Adonis.js
   - [ ] ES6
   - [ ] Vue.js
   - [ ] TypeScript
   - [ ] Chrome Developer Tools
-- [x] HTML
-- [x] CSS
-- [ ] SCSS
+- [ ] HTML
+- [ ] CSS
+  - [ ] SCSS
 - [ ] Python
   - [ ] Masonite
   - [ ] Django
   - [ ] Django Rest Framework
-  - [ ] Flask
-  - [ ] Tensorflow
 - [ ] Scala
   - [ ] Play Framework
 - [ ] Go
 - [ ] Ruby
   - [ ] Ruby on Rails
 - [ ] PHP
-  - [ ] Symfony
   - [ ] Laravel
 
 ## Computer Science Fundamentals
@@ -53,15 +48,15 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## DevOps
 
-- [x] Linux
+- [ ] unix
 - [ ] Continuous Integration
 - [ ] Continuous Delivery
 - [ ] Build and Test Automation
-- [x] Source Code Management
+- [ ] Source Code Management
 - [ ] Deployment Tools
 - [ ] Docker
 - [ ] Vagrant
-- [x] Heroku
+- [ ] Heroku
 - [ ] AWS
 - [ ] Kubernetes
 - [ ] Chef
@@ -69,14 +64,14 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 ## Web services, Web infrastructure
 
 - [ ] SOAP
-- [x] REST API Design
-- [x] HTTP
+- [ ] REST API Design
+- [ ] HTTP
 - [ ] GraphQL
 
 ## Databases
 
 - [ ] Relational and Nonrelational databases
-- [ ] MySQL 
+- [ ] SQL 
 - [ ] Postgres
 - [ ] MongoDB
 - [ ] Redis
@@ -84,11 +79,11 @@ This is my list of things that I'd like to learn. Mostly this will relate to sof
 
 ## Tools
 
-- [x] Git
+- [ ] Git
 - [ ] Nginx
 - [ ] Webpack
-- [x] Npm
-- [x] Yarn
+- [ ] Npm
+- [ ] Yarn
 - [ ] Elasticsearch
 - [ ] Logstash
 - [ ] Kibana
